@@ -1,10 +1,13 @@
 {
     "firstName": "Vitor",
     "lastName": "Santos",
-    "location": "Ribeirão Preto Area, Brazil",
+    "location": "Ribeirão Preto, Brazil",
     "adrress": "",
     "interests": "",
     "industry": "",
+    "email": "vitor_hs@live.com",
+    "positionName":"Desenvolvedor",
+    "photoUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAS5AAAAJDQyMDE3NDFhLTdhNzctNGY3Yy04ZWJkLTc3ZjMxNDFmZmYyNA.jpg",
     "dateBirth": "26/04/1995",
     "phoneNumbers": [
         {
@@ -20,7 +23,7 @@
             "isCurrentCompany": true,
             "startDate": "7/2015",
             "endDate": "",
-            "positionSummary": "Realiza atividade de analista desenvolvedor, trabalha com criação de aplicações, alocação, gerência de próprias tarefas. Trabalhou em sistema de pedido de pizza online. Desenvolveu Migração de sistema legados. Para c# MicroServices e AngularJS front Atualmente desenvolve sistema de pontuação, Backend C# e Xamarin mobile."
+            "positionSummary": "Realizo atividade de analista desenvolvedor, trabalha com criação de aplicações, alocação, gerência de próprias tarefas. Trabalhou em sistema de pedido de pizza online. Desenvolveu Migração de sistema legados. Para c# MicroServices e AngularJS front Atualmente desenvolve sistema de pontuação, Backend C# e Xamarin mobile."
         }
     ],
     "education": [

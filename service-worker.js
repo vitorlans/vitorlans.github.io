@@ -7,7 +7,7 @@ function setOfCachedUrls(e) {
   }).then(function (e) {
     return new Set(e);
   });
-}var precacheConfig = [["index.html", "6298cdc725c26180a1c82d130f9e65ce"], ["static/css/main.9a0fe4f1.css", "3473922d6aed4c20bb69846d6027cacf"], ["static/js/main.ab43843b.js", "86d57bf4b1e9a6b85c43799e47a7a226"], ["static/media/logo.ee7cd8ed.svg", "ee7cd8ed2dcec943251eb2763684fc6f"]],
+}var precacheConfig = [["index.html", "5937d3e74f850c2207e5d36e9b9cf1e4"], ["static/css/main.007591ba.css", "bad46ff9e692b42526776a3150bedfea"], ["static/js/main.6b782208.js", "521db2d84b66ac12ab1aba030d834071"], ["static/media/SamsungOne-300.bae10944.woff", "bae10944d6e91f054942052293699fb6"], ["static/media/SamsungOne-400.c6d604a8.woff", "c6d604a8322eea608e318f942462ee94"], ["static/media/SamsungOne-600.6a756b3c.woff", "6a756b3c772f0a81378ac1c12777e17a"], ["static/media/SamsungOne-700.6155d98a.woff", "6155d98a83b5cd468bb535ac4fb8fd14"], ["static/media/SamsungOne-800.d37ce275.woff", "d37ce275e272185348ea4d43223dbb50"]],
     cacheName = "sw-precache-v3-sw-precache-webpack-plugin-" + (self.registration ? self.registration.scope : ""),
     ignoreUrlParametersMatching = [/^utm_/],
     addDirectoryIndex = function (e, t) {
