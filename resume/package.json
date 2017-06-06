@@ -16,7 +16,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "deploy": "yarn build",
-    "copy": "babel build --out-dir . --copy-files"
+    "copy": "babel build --out-dir ../ --copy-files"
   },
   "homepage": "https://vitorlans.github.io"
 }
