@@ -3,20 +3,22 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "babel-cli": "^6.24.1",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-dom": "^15.5.4",
+    "w3-css": "^4.0.4"
   },
   "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "yarn": "^0.24.5",
+    "del-cli": "^1.0.0",
     "react-scripts": "1.0.7"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject",
-    "deploy": "yarn build",
-    "copy": "babel build --out-dir ../ --copy-files"
+    "clear": "del-cli --f build ../* !../resume !../.gitignore !../README.md",
+    "copy": "babel build --out-dir ../ --copy-files",
+    "deploy": "yarn clear && yarn build && yarn copy"
   },
   "homepage": "https://vitorlans.github.io"
 }

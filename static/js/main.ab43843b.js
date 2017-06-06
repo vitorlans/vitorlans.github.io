@@ -1769,7 +1769,7 @@
     };
   }e.exports = r;
 }, function (e, t, n) {
-  e.exports = n.p + "static/media/logo.5d5d9eef.svg";
+  e.exports = n.p + "static/media/logo.ee7cd8ed.svg";
 }, function (e, t, n) {
   "use strict";
   function r(e) {
@@ -3672,4 +3672,4 @@
 }, function (e, t, n) {
   n(78), e.exports = n(77);
 }]);
-//# sourceMappingURL=main.23e5d2a8.js.map
+//# sourceMappingURL=main.ab43843b.js.map
