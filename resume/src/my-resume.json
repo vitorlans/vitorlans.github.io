@@ -7,7 +7,7 @@
     "industry": "",
     "email": "vitor_hs@live.com",
     "positionName":"Desenvolvedor",
-    "photoUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAS5AAAAJDQyMDE3NDFhLTdhNzctNGY3Yy04ZWJkLTc3ZjMxNDFmZmYyNA.jpg",
+    "photoUrl": "https://scontent.cdninstagram.com/t51.2885-19/18013837_154425505088666_3138632306005114880_a.jpg",
     "dateBirth": "26/04/1995",
     "phoneNumbers": [
         {
@@ -29,8 +29,10 @@
     "education": [
         {
             "schoolName": "Centro Universitário Barão de Mauá",
-            "degree": "Tecnologia em Análise e Desenvolvimento de Sistemas, Started on 2013 Ended on 2015",
+            "degree": "Tecnologia em Análise e Desenvolvimento de Sistemas",
             "fieldStudy": "Tecnologia da Informação",
+            "startDate": "2013",
+            "endDate": "2015",
             "activities": "Desenvolvedor, Gerencia, Analista"
         }
     ],
@@ -49,10 +51,6 @@
         }
     ],
     "skillSets": [
-        {
-            "name": "C#",
-            "knowledge": 70
-        },
         {
             "name": "C#",
             "knowledge": 70
@@ -130,7 +128,7 @@
             "knowledge": 70
         }
     ],
-    "Languages": [
+    "languages": [
         {
             "name": "Português",
             "knowledge": 100

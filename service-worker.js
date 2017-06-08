@@ -7,7 +7,7 @@ function setOfCachedUrls(e) {
   }).then(function (e) {
     return new Set(e);
   });
-}var precacheConfig = [["index.html", "5937d3e74f850c2207e5d36e9b9cf1e4"], ["static/css/main.007591ba.css", "bad46ff9e692b42526776a3150bedfea"], ["static/js/main.6b782208.js", "521db2d84b66ac12ab1aba030d834071"], ["static/media/SamsungOne-300.bae10944.woff", "bae10944d6e91f054942052293699fb6"], ["static/media/SamsungOne-400.c6d604a8.woff", "c6d604a8322eea608e318f942462ee94"], ["static/media/SamsungOne-600.6a756b3c.woff", "6a756b3c772f0a81378ac1c12777e17a"], ["static/media/SamsungOne-700.6155d98a.woff", "6155d98a83b5cd468bb535ac4fb8fd14"], ["static/media/SamsungOne-800.d37ce275.woff", "d37ce275e272185348ea4d43223dbb50"]],
+}var precacheConfig = [["index.html", "fbf25882419d0154edaff46df101528a"], ["static/css/main.ebbf77a8.css", "67fc525b3747bfa8abe5380a2952406c"], ["static/js/main.38128d3f.js", "766ed160afabea15f62faaca1bb00072"], ["static/media/SamsungOne-300.bae10944.woff", "bae10944d6e91f054942052293699fb6"], ["static/media/SamsungOne-400.c6d604a8.woff", "c6d604a8322eea608e318f942462ee94"], ["static/media/SamsungOne-600.6a756b3c.woff", "6a756b3c772f0a81378ac1c12777e17a"], ["static/media/SamsungOne-700.6155d98a.woff", "6155d98a83b5cd468bb535ac4fb8fd14"], ["static/media/SamsungOne-800.d37ce275.woff", "d37ce275e272185348ea4d43223dbb50"]],
     cacheName = "sw-precache-v3-sw-precache-webpack-plugin-" + (self.registration ? self.registration.scope : ""),
     ignoreUrlParametersMatching = [/^utm_/],
     addDirectoryIndex = function (e, t) {
@@ -18,8 +18,8 @@ function setOfCachedUrls(e) {
     return new Response(t, { headers: e.headers, status: e.status, statusText: e.statusText });
   }) : Promise.resolve(e);
 },
-    createCacheKey = function (e, t, n, r) {
-  var a = new URL(e);return r && a.pathname.match(r) || (a.search += (a.search ? "&" : "") + encodeURIComponent(t) + "=" + encodeURIComponent(n)), a.toString();
+    createCacheKey = function (e, t, n, a) {
+  var r = new URL(e);return a && r.pathname.match(a) || (r.search += (r.search ? "&" : "") + encodeURIComponent(t) + "=" + encodeURIComponent(n)), r.toString();
 },
     isPathWhitelisted = function (e, t) {
   if (0 === e.length) return !0;var n = new URL(t).pathname;return e.some(function (e) {
@@ -41,14 +41,14 @@ function setOfCachedUrls(e) {
     urlsToCacheKeys = new Map(precacheConfig.map(function (e) {
   var t = e[0],
       n = e[1],
-      r = new URL(t, self.location),
-      a = createCacheKey(r, hashParamName, n, /\.\w{8}\./);return [r.toString(), a];
+      a = new URL(t, self.location),
+      r = createCacheKey(a, hashParamName, n, /\.\w{8}\./);return [a.toString(), r];
 }));self.addEventListener("install", function (e) {
   e.waitUntil(caches.open(cacheName).then(function (e) {
     return setOfCachedUrls(e).then(function (t) {
       return Promise.all(Array.from(urlsToCacheKeys.values()).map(function (n) {
         if (!t.has(n)) {
-          var r = new Request(n, { credentials: "same-origin" });return fetch(r).then(function (t) {
+          var a = new Request(n, { credentials: "same-origin" });return fetch(a).then(function (t) {
             if (!t.ok) throw new Error("Request for " + n + " returned a response with status " + t.status);return cleanResponse(t).then(function (t) {
               return e.put(n, t);
             });

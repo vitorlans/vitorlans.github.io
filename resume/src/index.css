@@ -2,3 +2,14 @@ html, body, h1, h2, h3, h4, h5, h6 {
 	font-family: "Samsung One", "Comic Sans MS", cursive, sans-serif;
 }
 
+.margin-4 {
+	margin-left: 4px;
+	margin-right: 4px;
+	margin-top: 4px;
+	margin-right: 4px;
+
+}
+
+.margin-top-10 {
+	margin-top: 10px;
+}
