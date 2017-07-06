@@ -6,7 +6,7 @@
     "interests": "",
     "industry": "",
     "email": "vitor_hs@live.com",
-    "positionName":"Desenvolvedor",
+    "positionName":"Analista Desenvolvedor",
     "photoUrl": "https://scontent.cdninstagram.com/t51.2885-19/18013837_154425505088666_3138632306005114880_a.jpg",
     "dateBirth": "26/04/1995",
     "phoneNumbers": [
@@ -23,7 +23,7 @@
             "isCurrentCompany": true,
             "startDate": "7/2015",
             "endDate": "",
-            "positionSummary": "Realizo atividade de analista desenvolvedor, trabalha com criação de aplicações, alocação, gerência de próprias tarefas. Trabalhou em sistema de pedido de pizza online. Desenvolveu Migração de sistema legados. Para c# MicroServices e AngularJS front Atualmente desenvolve sistema de pontuação, Backend C# e Xamarin mobile."
+            "positionSummary": "Realizo atividade de analista desenvolvedor, trabalha com criação de aplicações, alocação, \ngerência de próprias tarefas. Trabalhou em sistema de pedido de pizza online. Desenvolveu Migração de sistema legados. Para c# MicroServices e AngularJS front Atualmente desenvolve sistema de pontuação, Backend C# e Xamarin mobile."
         }
     ],
     "education": [
@@ -141,5 +141,20 @@
             "name": "Espanhol",
             "knowledge": 70
         }
-    ]
+    ],
+    "social": [{
+        "name":"linkedin",
+        "id":"in/vitorlans",
+        "url":"https://www.linkedin.com/in/vitorlans"
+    },
+    {
+        "name":"github",
+        "id":"gh/vitorlans",
+        "url":"https://github.com/vitorlans"
+    },
+    {
+        "name":"twitter",
+        "id":"@vitorlans",
+        "url":"https://twitter.com/vitorlans"
+    }]
 }

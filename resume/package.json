@@ -3,13 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^15.5.4",
-    "react-dom": "^15.5.4",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
     "w3-css": "^4.0.4"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
-    "yarn": "^0.24.5",
     "del-cli": "^1.0.0",
     "react-scripts": "1.0.7"
   },
