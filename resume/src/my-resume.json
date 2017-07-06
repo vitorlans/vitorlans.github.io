@@ -6,7 +6,7 @@
     "interests": "",
     "industry": "",
     "email": "vitor_hs@live.com",
-    "positionName":"Analista Desenvolvedor",
+    "positionName":"Analyst Developer",
     "photoUrl": "https://scontent.cdninstagram.com/t51.2885-19/18013837_154425505088666_3138632306005114880_a.jpg",
     "dateBirth": "26/04/1995",
     "phoneNumbers": [
@@ -18,22 +18,22 @@
     "positions": [
         {
             "company": "Dart Digital BR",
-            "industry": "Software",
-            "positionTitle": "Analista Desenvolvedor",
+            "industry": "Computer Software",
+            "positionTitle": "Analyst Developer",
             "isCurrentCompany": true,
             "startDate": "7/2015",
             "endDate": "",
-            "positionSummary": "Realizo atividade de analista desenvolvedor, trabalha com criação de aplicações, alocação, \ngerência de próprias tarefas. Trabalhou em sistema de pedido de pizza online. Desenvolveu Migração de sistema legados. Para c# MicroServices e AngularJS front Atualmente desenvolve sistema de pontuação, Backend C# e Xamarin mobile."
+            "positionSummary": "I work creating applications and solutions for our customer, managing my own tasks and working outsource in others company.\n\nI have already worked with one delivery order system, using C#, Foundation and JQuery in that Project.\nAlso in one management system, where we used C# for API, Bootstrap, AngularJS Material, AngularJS for Web App.\n\nNowadays, I'm working with one system that will create cashback per buy costumer. \nin this app, we are using C# for Services, Bootstrap and JQuery for Web App and Xamarin Forms for Mobile app."
         }
     ],
     "education": [
         {
             "schoolName": "Centro Universitário Barão de Mauá",
-            "degree": "Tecnologia em Análise e Desenvolvimento de Sistemas",
-            "fieldStudy": "Tecnologia da Informação",
+            "degree": "Technology in Systems Analysis and Development",
+            "fieldStudy": "Information Technology",
             "startDate": "2013",
             "endDate": "2015",
-            "activities": "Desenvolvedor, Gerencia, Analista"
+            "activities": "Main activities developed there was analyze, design, document, specify, test, deploy, maintain computer information systems and apply project methodology in the production of systems."
         }
     ],
     "course": [
@@ -56,7 +56,7 @@
             "knowledge": 70
         },
         {
-            "name": "Microsoft SQL Server",
+            "name": "SQL Server",
             "knowledge": 70
         },
         {
@@ -104,19 +104,7 @@
             "knowledge": 70
         },
         {
-            "name": "Posicionamento dinâmico",
-            "knowledge": 70
-        },
-        {
             "name": "AngularJS",
-            "knowledge": 70
-        },
-        {
-            "name": "Comunicação interpessoal",
-            "knowledge": 70
-        },
-        {
-            "name": "Flexíbilidade",
             "knowledge": 70
         },
         {
@@ -126,19 +114,35 @@
         {
             "name": "React Native",
             "knowledge": 70
+        },
+        {
+            "name": "Xamarin",
+            "knowledge": 70
+        },
+        {
+            "name": "Dynamic Positioning",
+            "knowledge": 70
+        },
+        {
+            "name": "Interpersonal comunication",
+            "knowledge": 70
+        },
+        {
+            "name": "Flexibility",
+            "knowledge": 70
         }
     ],
     "languages": [
         {
-            "name": "Português",
+            "name": "Portuguese",
             "knowledge": 100
         },
         {
-            "name": "Inglês",
+            "name": "English",
             "knowledge": 70
         },
         {
-            "name": "Espanhol",
+            "name": "Spanish",
             "knowledge": 70
         }
     ],

@@ -8,7 +8,7 @@ class Home extends Component {
         resume.skillSets.forEach((value, index) => {
             rows.push(<span key={index} className="w3-tag w3-teal w3-round margin-4">{value.name}</span>);
         })
-
+        console.log(resume.positions[0].positionSummary);
         return (
             <div>
                 <header>
@@ -24,11 +24,11 @@ class Home extends Component {
                     
                      <div className="w3-twothird">
                         <div className="w3-margin">
-                        <h2 className="w3-text-grey w3-padding-16"><i className="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
+                        <h2 className="w3-text-grey w3-padding-16"><i className="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experiences</h2>
                         <div className="">
                             <h5 className="w3-opacity"><b>{resume.positions[0].positionTitle} / {resume.positions[0].company}</b></h5>
                             <h6 className="w3-text-teal"><i className="fa fa-calendar fa-fw w3-margin-right"></i>{resume.positions[0].startDate} - <span className="w3-tag w3-teal w3-round">Current</span></h6>
-                            <p>{resume.positions[0].positionSummary}</p>
+                            <p style={{whiteSpace: "pre-wrap"}}>{resume.positions[0].positionSummary}</p>
                         </div>
                     </div>
                             <div className="w3-margin">
@@ -37,6 +37,7 @@ class Home extends Component {
                                     <h5 className="w3-opacity"><b>{resume.education[0].schoolName}</b></h5>
                                     <h6 className="w3-text-teal"><i className="fa fa-calendar fa-fw w3-margin-right"></i>{resume.education[0].startDate} - {resume.education[0].endDate}</h6>
                                     <p>{resume.education[0].degree}</p>
+                                    <p style={{whiteSpace: "pre-wrap"}}>{resume.education[0].activities}</p>
                                 </div>
                             </div>
                     </div>
