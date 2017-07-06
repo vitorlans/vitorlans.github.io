@@ -31,8 +31,15 @@ class BussinessCard extends Component {
                             </p>
                             <p>
                                 <i className="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>{resume.location}</p>
+                               
+                            {/*<p>
+                                <a className="text-decoration--none" href={' tel:' + ''} target="_blank" title="Phone" rel="noopener noreferrer" >                              <i className="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>
+                                    {resume.phoneNumber}
+                                </a>
+
+                            </p>*/}
                             <p>
-                                <a className="text-decoration--none" href={'mailto:' + resume.email} target="_blank" title="Twitter" rel="noopener noreferrer" >                              <i className="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>
+                                <a className="text-decoration--none" href={'mailto:' + resume.email} target="_blank" title="Email" rel="noopener noreferrer" >                              <i className="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>
                                     {resume.email}
                                 </a>
 
@@ -40,8 +47,8 @@ class BussinessCard extends Component {
                         </div>
                         <div className='w3-half'>
                             <p>
-                                <a className="text-decoration--none" href={resume.social[2].url} target="_blank" title="Twitter" rel="noopener noreferrer" >                              <i className="fa fa-twitter fa-fw w3-margin-right w3-large w3-text-teal"></i>
-                                    {resume.social[2].id}
+                                <a className="text-decoration--none" href={resume.social[3].url} target="_blank" title="Instagram" rel="noopener noreferrer" >                              <i className="fa fa-instagram fa-fw w3-margin-right w3-large w3-text-teal"></i>
+                                    {resume.social[3].id}
                                 </a>
 
                             </p>

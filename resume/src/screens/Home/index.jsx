@@ -30,6 +30,12 @@ class Home extends Component {
                             <h6 className="w3-text-teal"><i className="fa fa-calendar fa-fw w3-margin-right"></i>{resume.positions[0].startDate} - <span className="w3-tag w3-teal w3-round">Current</span></h6>
                             <p style={{whiteSpace: "pre-wrap"}}>{resume.positions[0].positionSummary}</p>
                         </div>
+                        <hr />
+                        <div className="">
+                            <h5 className="w3-opacity"><b>{resume.positions[1].positionTitle} / {resume.positions[1].company}</b></h5>
+                            <h6 className="w3-text-teal"><i className="fa fa-calendar fa-fw w3-margin-right"></i>{resume.positions[1].startDate} - {resume.positions[1].endDate}</h6>
+                            <p style={{whiteSpace: "pre-wrap"}}>{resume.positions[1].positionSummary}</p>
+                        </div>
                     </div>
                             <div className="w3-margin">
                                 <h2 className="w3-text-grey w3-padding-16"><i className="fa fa-book fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
@@ -69,7 +75,7 @@ class Home extends Component {
                     <footer className="w3-container w3-center w3-margin-top">
                     <div className="w3-margin">
                         <a className="w3-padding-small text-decoration--none" href="https://facebook.com/vitorlans" target="_blank" title="Facebook" rel="noopener noreferrer" ><i className="fa fa-facebook-official w3-hover-text-indigo w3-xlarge"></i> </a>
-                        <a className="w3-padding-small text-decoration--none" href="whatsapp://send?text=https://vitorlans.github.io" target="_blank" rel="noopener noreferrer" title="Whatsapp" ><i className="fa fa-whatsapp w3-hover-text-green w3-xlarge"></i> </a>
+                        {/*<a className="w3-padding-small text-decoration--none" href="https://api.whatsapp.com/send?text=https://vitorlans.github.io" target="_blank" rel="noopener noreferrer" title="Whatsapp" ><i className="fa fa-whatsapp w3-hover-text-green w3-xlarge"></i> </a>*/}
                         <a className="w3-padding-small text-decoration--none" href="https://www.instagram.com/vitorlans" target="_blank" title="Instagram" rel="noopener noreferrer"><i className="fa fa-instagram w3-hover-text-purple w3-xlarge"></i> </a>
                         <a className="w3-padding-small text-decoration--none" href="https://snapchat.com/add/vitorlans" target="_blank" title="Snapchat" rel="noopener noreferrer"><i className="fa fa-snapchat w3-hover-text-yellow w3-xlarge"></i> </a>
                         <a className="w3-padding-small text-decoration--none" href="https://twitter.com/vitorlans" target="_blank" title="Twitter" rel="noopener noreferrer" ><i className="fa fa-twitter w3-hover-text-light-blue w3-xlarge"></i> </a>

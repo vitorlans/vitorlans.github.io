@@ -1,5 +1,5 @@
 {
-    "firstName": "Vitor",
+    "firstName": "Vitor Hugo",
     "lastName": "Santos",
     "location": "Ribeirão Preto, Brazil",
     "adrress": "",
@@ -9,11 +9,7 @@
     "positionName":"Analyst Developer",
     "photoUrl": "https://scontent.cdninstagram.com/t51.2885-19/18013837_154425505088666_3138632306005114880_a.jpg",
     "dateBirth": "26/04/1995",
-    "phoneNumbers": [
-        {
-            "Number": ""
-        }
-    ],
+    "phoneNumber": "",
     "professionalSummary": "Sou desenvolvedor, trabalho maioria do tempo com tecnologias web. ao longo desses anos tenho criado e solucionado problemas de alguns clientes da empresa onde trabalho. Tenho cultura de está sempre se atualizando e criando. Estou construindo a minha carreira a cada dia.",
     "positions": [
         {
@@ -23,7 +19,16 @@
             "isCurrentCompany": true,
             "startDate": "7/2015",
             "endDate": "",
-            "positionSummary": "I work creating applications and solutions for our customer, managing my own tasks and working outsource in others company.\n\nI have already worked with one delivery order system, using C#, Foundation and JQuery in that Project.\nAlso in one management system, where we used C# for API, Bootstrap, AngularJS Material, AngularJS for Web App.\n\nNowadays, I'm working with one system that will create cashback per buy costumer. \nin this app, we are using C# for Services, Bootstrap and JQuery for Web App and Xamarin Forms for Mobile app."
+            "positionSummary": "I work creating applications and solutions for our customer, managing my own tasks and working outsource in others company.\n\nI have already worked with one delivery order system, using C#, Foundation and JQuery in that Project.\nAlso in one management system, where we used C# for API, Bootstrap, AngularJS Material, AngularJS for Web App.\n\nNowadays, I'm working with one system that will create cashback per buy costumer. \nIn this app, we are using C# for Services, Bootstrap and JQuery for Web App and Xamarin Forms for Mobile app."
+        },
+        {
+            "company": "Brasil Web Host",
+            "industry": "Computer Software",
+            "positionTitle": "Support Analyst",
+            "isCurrentCompany": false,
+            "startDate": "8/2013",
+            "endDate": "11/2014",
+            "positionSummary": "I worked there helping and solving problems by tickets that there customers had with their hosting and websites."
         }
     ],
     "education": [
@@ -120,7 +125,7 @@
             "knowledge": 70
         },
         {
-            "name": "Dynamic Positioning",
+            "name": "Dynamic positioning",
             "knowledge": 70
         },
         {
@@ -129,6 +134,18 @@
         },
         {
             "name": "Flexibility",
+            "knowledge": 70
+        },
+        {
+            "name": "Entrepreneur",
+            "knowledge": 70
+        },
+        {
+            "name": "Team work",
+            "knowledge": 70
+        },
+        {
+            "name": "Ease of communication",
             "knowledge": 70
         }
     ],
@@ -160,5 +177,10 @@
         "name":"twitter",
         "id":"@vitorlans",
         "url":"https://twitter.com/vitorlans"
+    },
+    {
+        "name":"Instagram",
+        "id":"@vitorlans",
+        "url":"https://www.instagram.com/vitorlans"
     }]
 }
