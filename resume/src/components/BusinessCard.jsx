@@ -29,6 +29,7 @@ class BussinessCard extends Component {
             <h2>
               {resume.firstName + " " + resume.lastName}
             </h2>
+            <div style={{ whiteSpace: "pre-wrap" }}>{resume.professionalSummary}</div>
           </div>
           <hr />
           <div className="w3-row">
@@ -59,13 +60,13 @@ class BussinessCard extends Component {
               <p>
                 <a
                   className="text-decoration--none"
-                  href={resume.social[3].url}
+                  href={resume.social[4].url}
                   target="_blank"
                   title="Instagram"
                   rel="noopener noreferrer"
                 >
-                  <i className="fa fa-instagram fa-fw w3-margin-right w3-large w3-text-teal" />
-                  {resume.social[3].id}
+                  <i className="fa fa-telegram fa-fw w3-margin-right w3-large w3-text-teal" />
+                  {resume.social[4].id}
                 </a>
               </p>
               <p>

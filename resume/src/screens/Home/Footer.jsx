@@ -1,4 +1,5 @@
 import React, {Component} from 'react'
+import resume from '../../my-resume.json'
 
 export default class Footer extends Component {
     render(){
@@ -13,6 +14,15 @@ export default class Footer extends Component {
               rel="noopener noreferrer"
             >
               <i className="fa fa-facebook-official w3-hover-text-indigo w3-xlarge" />{" "}
+            </a>
+            <a
+              className="w3-padding-small text-decoration--none"
+              href="https://t.me/vitorlans"
+              target="_blank"
+              title="Telegram"
+              rel="noopener noreferrer"
+            >
+              <i className="fa fa-telegram w3-hover-text-indigo w3-xlarge" />{" "}
             </a>
             {/*<a className="w3-padding-small text-decoration--none" href="https://api.whatsapp.com/send?text=https://vitorlans.github.io" target="_blank" rel="noopener noreferrer" title="Whatsapp" ><i className="fa fa-whatsapp w3-hover-text-green w3-xlarge"></i> </a>*/}
             <a

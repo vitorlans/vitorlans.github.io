@@ -10,7 +10,7 @@
     "photoUrl": "https://scontent.cdninstagram.com/t51.2885-19/18013837_154425505088666_3138632306005114880_a.jpg",
     "dateBirth": "26/04/1995",
     "phoneNumber": "",
-    "professionalSummary": "Sou desenvolvedor, trabalho maioria do tempo com tecnologias web. ao longo desses anos tenho criado e solucionado problemas de alguns clientes da empresa onde trabalho. Tenho cultura de está sempre se atualizando e criando. Estou construindo a minha carreira a cada dia.",
+    "professionalSummary": "I've been creating applications and resolving real problems with technology over the years, I'm always trying keep me up to date, like trying new programming language or learning different stuffs.",
     "positions": [
         {
             "company": "Dart Digital BR",
@@ -40,6 +40,26 @@
             "endDate": "2015",
             "activities": "Main activities developed there was analyze, design, document, specify, test, deploy, maintain computer information systems and apply project methodology in the production of systems."
         }
+    ],
+    "ability": [
+        {
+            "description": "Experienced with Agile culture"
+        },
+        {
+            "description": "Knowledge how to build REST API and consume JSON"
+        },
+        {
+            "description": "Object-oriented programming"
+        },
+        {
+            "description": "Knowledge how to publish Android, Windows app"
+        },
+        {
+            "description": "Ideas how to build great designed apps"
+        },
+        {
+            "description": "Knowledge how to support customers when need"
+        }  
     ],
     "course": [
         {
@@ -101,6 +121,10 @@
             "knowledge": 70
         },
         {
+            "name": "App design",
+            "knowledge": 70
+        },
+        {
             "name": "JQuery",
             "knowledge": 70
         },
@@ -129,15 +153,15 @@
             "knowledge": 70
         },
         {
-            "name": "Dynamic positioning",
+            "name": "Quick learner",
             "knowledge": 70
         },
         {
-            "name": "Interpersonal comunication",
+            "name": "Social communication",
             "knowledge": 70
         },
         {
-            "name": "Flexibility",
+            "name": "Adaptable",
             "knowledge": 70
         },
         {
@@ -149,7 +173,7 @@
             "knowledge": 70
         },
         {
-            "name": "Ease of communication",
+            "name": "Easygoing",
             "knowledge": 70
         }
     ],
@@ -186,5 +210,10 @@
         "name":"Instagram",
         "id":"@vitorlans",
         "url":"https://www.instagram.com/vitorlans"
+    },
+    {
+        "name":"Telegram",
+        "id":"@vitorlans",
+        "url":"https://t.me/vitorlans"
     }]
 }
