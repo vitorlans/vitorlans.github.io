@@ -19,7 +19,8 @@ class WorkExperience extends Component {
                     <h6 className="w3-text-teal">
                         <i className="fa fa-calendar fa-fw w3-margin-right" />
                         {resume.positions[0].startDate} {" - "}
-                        <span className="w3-tag w3-teal w3-round">Current</span>
+                        {resume.positions[0].endDate}
+                        {/* <span className="w3-tag w3-teal w3-round">Current</span> */}
                     </h6>
                     <p style={{ whiteSpace: "pre-wrap" }}>
                         {resume.positions[0].positionSummary}
