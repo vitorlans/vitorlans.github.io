@@ -23,3 +23,5 @@ yarn-error.log*
 /resume/npm-debug.log*
 /resume/yarn-debug.log*
 /resume/yarn-error.log*
+
+/.history
