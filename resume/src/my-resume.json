@@ -1,40 +1,65 @@
 {
-    "firstName": "Vitor",
+    "firstName": "Vitor Hugo",
     "lastName": "Santos",
     "location": "Ribeirão Preto, Brazil",
     "adrress": "",
     "interests": "",
     "industry": "",
     "email": "vitor_hs@live.com",
-    "positionName":"Analista Desenvolvedor",
+    "positionName":"Analyst Developer",
     "photoUrl": "https://scontent.cdninstagram.com/t51.2885-19/18013837_154425505088666_3138632306005114880_a.jpg",
     "dateBirth": "26/04/1995",
-    "phoneNumbers": [
-        {
-            "Number": ""
-        }
-    ],
-    "professionalSummary": "Sou desenvolvedor, trabalho maioria do tempo com tecnologias web. ao longo desses anos tenho criado e solucionado problemas de alguns clientes da empresa onde trabalho. Tenho cultura de está sempre se atualizando e criando. Estou construindo a minha carreira a cada dia.",
+    "phoneNumber": "",
+    "professionalSummary": "I've been creating applications and resolving real problems with technology over the years, I'm always trying keep me up to date, like trying new programming language or learning different stuffs.",
     "positions": [
         {
             "company": "Dart Digital BR",
-            "industry": "Software",
-            "positionTitle": "Analista Desenvolvedor",
+            "industry": "Computer Software",
+            "positionTitle": "Analyst Developer",
             "isCurrentCompany": true,
             "startDate": "7/2015",
             "endDate": "",
-            "positionSummary": "Realizo atividade de analista desenvolvedor, trabalha com criação de aplicações, alocação, \ngerência de próprias tarefas. Trabalhou em sistema de pedido de pizza online. Desenvolveu Migração de sistema legados. Para c# MicroServices e AngularJS front Atualmente desenvolve sistema de pontuação, Backend C# e Xamarin mobile."
+            "positionSummary": "I work creating applications and solutions for our customer, managing my own tasks and working outsource in others company.\n\nI have already worked with one delivery order system, using C#, Foundation and JQuery in that Project.\nAlso in one management system, where we used C# for API, Bootstrap, AngularJS Material, AngularJS for Web App.\n\nNowadays, I'm working with one system that will create cashback per buy costumer. \nIn this app, we are using C# for Services, Bootstrap and JQuery for Web App and Xamarin Forms for Mobile app."
+        },
+        {
+            "company": "Brasil Web Host",
+            "industry": "Computer Software",
+            "positionTitle": "Support Analyst",
+            "isCurrentCompany": false,
+            "startDate": "8/2013",
+            "endDate": "11/2014",
+            "positionSummary": "I worked there helping and solving problems by tickets that there customers had with their hosting and websites."
         }
     ],
     "education": [
         {
             "schoolName": "Centro Universitário Barão de Mauá",
-            "degree": "Tecnologia em Análise e Desenvolvimento de Sistemas",
-            "fieldStudy": "Tecnologia da Informação",
+            "degree": "Technology in Systems Analysis and Development",
+            "fieldStudy": "Information Technology",
             "startDate": "2013",
             "endDate": "2015",
-            "activities": "Desenvolvedor, Gerencia, Analista"
+            "activities": "Main activities developed there was analyze, design, document, specify, test, deploy, maintain computer information systems and apply project methodology in the production of systems."
         }
+    ],
+    "ability": [
+        {
+            "description": "Experienced with Agile culture"
+        },
+        {
+            "description": "Knowledge how to build REST API and consume JSON"
+        },
+        {
+            "description": "Object-oriented programming"
+        },
+        {
+            "description": "Knowledge how to publish Android, Windows app"
+        },
+        {
+            "description": "Ideas how to build great designed apps"
+        },
+        {
+            "description": "Knowledge how to support customers when need"
+        }  
     ],
     "course": [
         {
@@ -56,7 +81,7 @@
             "knowledge": 70
         },
         {
-            "name": "Microsoft SQL Server",
+            "name": "SQL Server",
             "knowledge": 70
         },
         {
@@ -96,6 +121,10 @@
             "knowledge": 70
         },
         {
+            "name": "App design",
+            "knowledge": 70
+        },
+        {
             "name": "JQuery",
             "knowledge": 70
         },
@@ -104,19 +133,7 @@
             "knowledge": 70
         },
         {
-            "name": "Posicionamento dinâmico",
-            "knowledge": 70
-        },
-        {
             "name": "AngularJS",
-            "knowledge": 70
-        },
-        {
-            "name": "Comunicação interpessoal",
-            "knowledge": 70
-        },
-        {
-            "name": "Flexíbilidade",
             "knowledge": 70
         },
         {
@@ -126,19 +143,51 @@
         {
             "name": "React Native",
             "knowledge": 70
+        },
+        {
+            "name": "Xamarin",
+            "knowledge": 70
+        },
+        {
+            "name": "Python",
+            "knowledge": 70
+        },
+        {
+            "name": "Quick learner",
+            "knowledge": 70
+        },
+        {
+            "name": "Social communication",
+            "knowledge": 70
+        },
+        {
+            "name": "Adaptable",
+            "knowledge": 70
+        },
+        {
+            "name": "Entrepreneur",
+            "knowledge": 70
+        },
+        {
+            "name": "Team work",
+            "knowledge": 70
+        },
+        {
+            "name": "Easygoing",
+            "knowledge": 70
         }
     ],
     "languages": [
         {
-            "name": "Português",
+            "name": "Portuguese",
             "knowledge": 100
         },
         {
-            "name": "Inglês",
+            "name": "English",
             "knowledge": 70
         },
         {
-            "name": "Espanhol",
+            "name": "Spanish",
             "knowledge": 70
         }
     ],
@@ -156,5 +205,15 @@
         "name":"twitter",
         "id":"@vitorlans",
         "url":"https://twitter.com/vitorlans"
+    },
+    {
+        "name":"Instagram",
+        "id":"@vitorlans",
+        "url":"https://www.instagram.com/vitorlans"
+    },
+    {
+        "name":"Telegram",
+        "id":"@vitorlans",
+        "url":"https://t.me/vitorlans"
     }]
 }
