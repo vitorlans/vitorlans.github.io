@@ -13,13 +13,31 @@
     "professionalSummary": "I've been creating applications and resolving real problems with technology over the years, I'm always trying keep me up to date, like trying new programming language or learning different stuffs.",
     "positions": [
         {
+            "company": "SWFast",
+            "industry": "Computer Software",
+            "positionTitle": "Mobile Developer",
+            "isCurrentCompany": true,
+            "startDate": "01/2018",
+            "endDate": "",
+            "positionSummary": "I'm currently working in mobile app using Xamarin Forms, that app will help waiters make a order and manage costumer table orders in restaurant (order pad)"
+        },
+        {
+            "company": "Self Employee",
+            "industry": "Computer Software",
+            "positionTitle": "Mobile Developer",
+            "isCurrentCompany": false,
+            "startDate": "01/2018",
+            "endDate": "",
+            "positionSummary": "I've been manage and creating mobile app using React Native, one of this it`s a app that help nurses, providing Diagnosis for different domains and issue, and some cases there is prescription for that problem."
+        },
+        {
             "company": "Dart Digital BR",
             "industry": "Computer Software",
             "positionTitle": "Analyst Developer",
-            "isCurrentCompany": true,
+            "isCurrentCompany": false,
             "startDate": "7/2015",
             "endDate": "10/2017",
-            "positionSummary": "I work creating applications and solutions for our customer, managing my own tasks and working outsource in others company.\n\nI have already worked with one delivery order system, using C#, Foundation and JQuery in that Project.\nAlso in one management system, where we used C# for API, Bootstrap, AngularJS Material, AngularJS for Web App.\n\nBesides one system that will create cashback per buy costumer. \nIn this app, we are using C# for Services, Bootstrap and JQuery for Web App and Xamarin Forms for Mobile app."
+            "positionSummary": "I worked creating applications and solutions for our customer, managing my own tasks and working outsource in others company.\n\nI have already worked with one delivery order system, using C#, Foundation and JQuery in that Project.\nAlso in one management system, where we used C# for API, Bootstrap, AngularJS Material, AngularJS for Web App.\n\nBesides one system that provide cashback per constumer. \nIn this app, we was using C# for Services, Bootstrap and JQuery for Web App and Xamarin Forms for Mobile app."
         },
         {
             "company": "Brasil Web Host",
@@ -34,7 +52,7 @@
     "education": [
         {
             "schoolName": "Centro Universitário Barão de Mauá",
-            "degree": "Technology in Systems Analysis and Development",
+            "degree": "Technology in Analysis and Development Systems",
             "fieldStudy": "Information Technology",
             "startDate": "2013",
             "endDate": "2015",
@@ -52,14 +70,17 @@
             "description": "Object-oriented programming"
         },
         {
-            "description": "Knowledge how to publish Android, Windows app"
+            "description": "Knowledge how to publish Android, Windows, Apple app"
         },
         {
-            "description": "Ideas how to build great designed apps"
+            "description": "Cultural Exchange - Experienced how to live out of my country (Ireland - Dublin)"
         },
         {
             "description": "Knowledge how to support customers when need"
-        }  
+        } ,
+        {
+            "description": "Ideas how to build great designed apps"
+        }
     ],
     "course": [
         {
@@ -110,6 +131,14 @@
         },
         {
             "name": "Java",
+            "knowledge": 70
+        },
+        {
+            "name": "NodeJS",
+            "knowledge": 70
+        },
+        {
+            "name": ".Net Core",
             "knowledge": 70
         },
         {

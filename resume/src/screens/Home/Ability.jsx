@@ -24,6 +24,12 @@ class Ability extends Component {
                   <p style={{ whiteSpace: "pre-wrap" }}>
                     - {resume.ability[4].description}
                   </p>
+                  <p style={{ whiteSpace: "pre-wrap" }}>
+                    - {resume.ability[5].description}
+                  </p>
+                  <p style={{ whiteSpace: "pre-wrap" }}>
+                    - {resume.ability[6].description}
+                  </p>                    
                 </div>
               </div>
         );
