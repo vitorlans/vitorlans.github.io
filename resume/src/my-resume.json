@@ -13,19 +13,19 @@
     "professionalSummary": "I've been creating applications and resolving real problems with technology over the years, I'm always trying keep me up to date, like trying new programming language or learning different stuffs.",
     "positions": [
         {
-            "company": "SWFast",
+            "company": "SwFast",
             "industry": "Computer Software",
-            "positionTitle": "Mobile Developer",
+            "positionTitle": "Mobile Developer | Web Developer",
             "isCurrentCompany": true,
             "startDate": "01/2018",
             "endDate": "",
-            "positionSummary": "I'm currently working in mobile app using Xamarin Forms, that app will help waiters make a order and manage costumer table orders in restaurant (order pad)"
+            "positionSummary": "I'm currently working in mobile app using Xamarin Forms, that app will help waiters make a order and manage costumer table orders in restaurant (order pad) \n\n Also I have worked developing Web API for provide data to the Order Pad App using C#, DDD pattern, ASP NET core MVC, Swagger documentation."
         },
         {
             "company": "Self Employee",
             "industry": "Computer Software",
             "positionTitle": "Mobile Developer",
-            "isCurrentCompany": false,
+            "isCurrentCompany": true,
             "startDate": "01/2018",
             "endDate": "",
             "positionSummary": "I've been manage and creating mobile app using React Native, one of this it`s a app that help nurses, providing Diagnosis for different domains and issue, and some cases there is prescription for that problem."
