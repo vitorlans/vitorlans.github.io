@@ -9,7 +9,7 @@
     "positionName":"Analyst Developer",
     "photoUrl": "https://instagram.flju2-1.fna.fbcdn.net/vp/d64ec31162bf164d443e5c94afe09b8b/5C3CD673/t51.2885-19/18013837_154425505088666_3138632306005114880_a.jpg",
     "dateBirth": "26/04/1995",
-    "phoneNumber": "",
+    "phoneNumber": "+55 19 99333-1334",
     "professionalSummary": "I've been creating applications and resolving real problems with technology over the years, I'm always trying keep me up to date, like trying new programming language or learning different stuffs.",
     "positions": [
         {
@@ -19,7 +19,7 @@
             "isCurrentCompany": true,
             "startDate": "01/2018",
             "endDate": "",
-            "positionSummary": "I'm currently working in mobile app using Xamarin Forms, that app will help waiters make a order and manage costumer table orders in restaurant (order pad) \n\n Also I have worked developing Web API for provide data to the Order Pad App using C#, DDD pattern, ASP NET core MVC, Swagger documentation."
+            "positionSummary": "I'm currently working in mobile app using Xamarin Forms, that app will help waiters make a order and manage costumer table orders in restaurant (order pad) \n\nAlso I have worked developing Web API for provide data to the Order Pad App using C#, DDD pattern, ASP NET core MVC, Swagger documentation."
         },
         {
             "company": "Self Employee",
@@ -56,7 +56,7 @@
             "fieldStudy": "Information Technology",
             "startDate": "2013",
             "endDate": "2015",
-            "activities": "Main activities developed there was analyze, design, document, specify, test, deploy, maintain computer information systems and apply project methodology in the production of systems."
+            "activities": "Main activities developed there was analyze, design, document, specify, test, deploy, maintain computer information systems and apply project methodology in the production of systems. \n\nMain Technologies used: C#, Sql, Html, Asp Net MVC, Javascript"
         }
     ],
     "ability": [
