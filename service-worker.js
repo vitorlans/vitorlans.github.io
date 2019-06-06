@@ -7,7 +7,7 @@ function setOfCachedUrls(e) {
   }).then(function (e) {
     return new Set(e);
   });
-}var precacheConfig = [["/index.html", "428f94b96d1dc36c1a7770adc3bb08a3"], ["/static/css/main.2bf668f8.css", "1cc95cc8fc5bd0407e738066a9315d5a"], ["/static/js/main.42ddf98c.js", "a98aa4b1b9a8b29cc9e095dbc8e9f6bc"], ["/static/media/SamsungOne-300.bae10944.woff", "bae10944d6e91f054942052293699fb6"], ["/static/media/SamsungOne-400.c6d604a8.woff", "c6d604a8322eea608e318f942462ee94"], ["/static/media/SamsungOne-600.6a756b3c.woff", "6a756b3c772f0a81378ac1c12777e17a"], ["/static/media/SamsungOne-700.6155d98a.woff", "6155d98a83b5cd468bb535ac4fb8fd14"], ["/static/media/SamsungOne-800.d37ce275.woff", "d37ce275e272185348ea4d43223dbb50"]],
+}var precacheConfig = [["/index.html", "f63b0e14bbc7fcd82e492ea699e561e3"], ["/static/css/main.2bf668f8.css", "1cc95cc8fc5bd0407e738066a9315d5a"], ["/static/js/main.54b816c2.js", "b515409f989bda4cb4a4655ae3c3fb8c"], ["/static/media/SamsungOne-300.bae10944.woff", "bae10944d6e91f054942052293699fb6"], ["/static/media/SamsungOne-400.c6d604a8.woff", "c6d604a8322eea608e318f942462ee94"], ["/static/media/SamsungOne-600.6a756b3c.woff", "6a756b3c772f0a81378ac1c12777e17a"], ["/static/media/SamsungOne-700.6155d98a.woff", "6155d98a83b5cd468bb535ac4fb8fd14"], ["/static/media/SamsungOne-800.d37ce275.woff", "d37ce275e272185348ea4d43223dbb50"]],
     cacheName = "sw-precache-v3-sw-precache-webpack-plugin-" + (self.registration ? self.registration.scope : ""),
     ignoreUrlParametersMatching = [/^utm_/],
     addDirectoryIndex = function (e, t) {
