@@ -1,13 +1,13 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # dependencies
-/resume/node_modules
+node_modules
 
 # testing
-/resume/coverage
+coverage
 
 # production
-/resume/build
+build
 
 # misc
 .DS_Store
@@ -20,8 +20,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-/resume/npm-debug.log*
-/resume/yarn-debug.log*
-/resume/yarn-error.log*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
 /.history

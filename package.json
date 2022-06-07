@@ -1,0 +1,35 @@
+{
+  "name": "resume",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "w3-css": "^4.1.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "del-cli": "^4.0.1",
+    "react-scripts": "5.0.1",
+    "gh-pages": "4.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "clear": "del-cli --f build",
+    "deploy": "yarn clear && yarn build && gh-pages -d .\\build"
+  },
+  "homepage": "https://vitorlans.github.io",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

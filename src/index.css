@@ -27,3 +27,10 @@ html, body, h1, h2, h3, h4, h5, h6 {
   -ms-filter: blur(5px);
   filter: blur(5px) !important
 }
+
+/* /color 2022 */
+.w3-circle {
+    border-radius: 15%;
+}
+.w3-teal,.w3-hover-teal:hover{color:#fff!important;background-color:#6667AB!important}
+.w3-text-teal,.w3-hover-text-teal:hover{color:#6667AB!important}

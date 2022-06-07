@@ -1,17 +1,26 @@
 {
   "firstName": "Vitor Hugo",
   "lastName": "Santos",
-  "location": "Ribeirão Preto, Brazil",
+  "location": "Lisbon, Portugal",
   "adrress": "",
   "interests": "",
   "industry": "",
   "email": "vitor_hs@live.com",
   "positionName": "Analyst Developer",
-  "photoUrl": "/profile.jpg",
+  "photoUrl": "/eu.jpg",
   "dateBirth": "26/04/1995",
   "phoneNumber": "",
   "professionalSummary": "I've been creating applications and resolving real problems with technology over the years, I'm always trying keep me up to date, like trying new programming language or learning different stuffs.",
   "positions": [
+    {
+      "company": "Reckitt",
+      "industry": "Computer Software",
+      "positionTitle": "Web Developer",
+      "isCurrentCompany": true,
+      "startDate": "07/2019",
+      "endDate": "",
+      "positionSummary": ""
+    },
     {
       "company": "Swfast",
       "industry": "Computer Software",
@@ -98,19 +107,31 @@
   ],
   "skillSets": [
     {
-      "name": "C#",
-      "knowledge": 70
-    },
-    {
-      "name": "SQL Server",
-      "knowledge": 70
-    },
-    {
       "name": "JavaScript",
       "knowledge": 70
     },
     {
+      "name": "React.js",
+      "knowledge": 70
+    },
+    {
+      "name": "Azure Functions",
+      "knowledge": 70
+    },
+    {
+      "name": "Azure Data Factory",
+      "knowledge": 70
+    },
+    {
+      "name": "C#",
+      "knowledge": 70
+    },
+    {
       "name": "ASP.NET MVC",
+      "knowledge": 70
+    },
+    {
+      "name": "SQL Server",
       "knowledge": 70
     },
     {
@@ -158,7 +179,7 @@
       "knowledge": 70
     },
     {
-      "name": "React.js",
+      "name": "Puppeteer",
       "knowledge": 70
     },
     {
@@ -166,7 +187,7 @@
       "knowledge": 70
     },
     {
-      "name": "Redux",
+      "name": "Databricks",
       "knowledge": 70
     },
     {
@@ -174,7 +195,11 @@
       "knowledge": 70
     },
     {
-      "name": "MS App Center",
+      "name": "Docker",
+      "knowledge": 70
+    },
+    {
+      "name": "Serverless",
       "knowledge": 70
     },
     {
@@ -187,6 +212,10 @@
     },
     {
       "name": "Quick learner",
+      "knowledge": 70
+    },
+    {
+      "name": "Automation process",
       "knowledge": 70
     },
     {
