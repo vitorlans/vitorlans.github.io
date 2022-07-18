@@ -15,11 +15,11 @@
     {
       "company": "Reckitt",
       "industry": "Computer Software",
-      "positionTitle": "Web Developer",
+      "positionTitle": "Web Developer | RPA Developer",
       "isCurrentCompany": true,
       "startDate": "07/2019",
       "endDate": "",
-      "positionSummary": ""
+      "positionSummary": "At Reckitt I'm working on some interesting projects\n\nI worked on the development of a portal that allows users to create data mapping in an easy-to-use interface, send files for processing (databricks), manage access to the portal and many other features related to handling transformation data, every portal was built using ReactJS, Contexts, other Front-end libs and Back-End developed in asp.net MVC\n\nI also worked on building systems in azure functions (serverless), this system is capable of starting a docker container that has the ability to access websites with pupputter and extract data, this project was created using NodeJS, I also work with create pipelines with auto triggers on ADF platform. \nIn addition, work related to creation of robotic process automation (rpa) developed in Javascript ES6 that make file extraction in web portal, unpilot data and send to storage and processing"
     },
     {
       "company": "Swfast",
@@ -37,7 +37,7 @@
       "isCurrentCompany": true,
       "startDate": "01/2018",
       "endDate": "",
-      "positionSummary": "I've been manage and creating mobile app using React Native, \n\nDiane (Gplay) it's one of that app that help nurses, providing Diagnosis for different domains and issue, and some cases there is prescription for that problem and some utils tools. The necessity of it app is my mother is a nurse and Diane helps her in a daily process, nowadays this app has more than 1700 active users."
+      "positionSummary": "I've been manage and creating mobile app using React Native, \n\nDiane (Gplay) it's one of that app that help nurses, providing Diagnosis for different domains and issue, and some cases there is prescription for that problem and some utils tools. The necessity of it app is my mother is a nurse and Diane helps her in a daily process, nowadays this app has some active users."
     },
     {
       "company": "Dart Digital BR",
@@ -73,22 +73,31 @@
       "description": "Experienced with Agile culture"
     },
     {
+      "description": "2 year engaging and working together with remote team"
+    },
+    {
       "description": "Knowledge how to build REST API and consume JSON"
     },
     {
       "description": "Object-oriented programming"
     },
     {
-      "description": "Knowledge how to publish Android, Windows, Apple app"
+      "description": "Knowledge how to publish Android, Windows, Apple, Web app"
     },
     {
-      "description": "Cultural Exchange - Experienced how to live out of my country (Ireland - Dublin)"
+      "description": "Building and maintaining Worldwide web portal"
+    },
+    {
+      "description": "Cultural Exchange - Experienced how to live out of my country"
     },
     {
       "description": "Knowledge how to support customers when need"
     },
     {
       "description": "Ideas how to build great designed apps"
+    },
+    {
+      "description": "Experience playing online games and competitive FPS gaming"
     }
   ],
   "course": [
