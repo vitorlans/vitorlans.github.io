@@ -24,6 +24,7 @@ class Certification extends Component {
                 <i className="fa fa-calendar fa-fw w3-margin-right" />
                 {cert.startDate}
               </h6>
+              <hr />
             </div>
           );
         })}
