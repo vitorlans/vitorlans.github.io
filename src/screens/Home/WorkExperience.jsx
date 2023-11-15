@@ -24,6 +24,9 @@ class WorkExperience extends Component {
             <p style={{ whiteSpace: "pre-wrap" }}>
                 {position.positionSummary}
             </p>
+            <p style={{ whiteSpace: "pre-wrap" }}>
+                {position.positionTecnology}
+            </p>
         </div>
         <hr />
         </div>)

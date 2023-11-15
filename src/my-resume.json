@@ -19,7 +19,8 @@
       "isCurrentCompany": true,
       "startDate": "07/2019",
       "endDate": "",
-      "positionSummary": "At Reckitt I'm working on some interesting projects\n\nI worked on the development of a portal that allows users to create data mapping in an easy-to-use interface, send files for processing (databricks), manage access to the portal and many other features related to handling transformation data, every portal was built using ReactJS, Contexts, other Front-end libs and Back-End developed in asp.net MVC\n\nI also worked on building systems in azure functions (serverless), this system is capable of starting a docker container that has the ability to access websites with pupputter and extract data, this project was created using NodeJS, I also work with create pipelines with auto triggers on ADF platform. \nIn addition, work related to creation of robotic process automation (rpa) developed in Javascript ES6 that make file extraction in web portal, unpilot data and send to storage and processing"
+      "positionSummary": "At Reckitt I'm working on some interesting projects\n\nI worked on the development of a portal that allows users to create data mapping in an easy-to-use interface, send files for processing (databricks), manage access to the portal and many other features related to handling transformation data, every portal was built using ReactJS, Contexts, other Front-end libs and Back-End developed in asp.net MVC\n\nI also worked on building systems in azure functions (serverless), this system is capable of starting a docker container that has the ability to access websites with pupputter and extract data, this project was created using NodeJS, I also work with create pipelines with auto triggers on ADF platform. \nIn addition, work related to creation of robotic process automation (rpa) developed in Javascript ES6 that make file extraction in web portal, unpilot data and send to storage and processing",
+      "positionTecnology": "Technologies used: JavaScript ES6, React, Redux, React Context, React Hooks, Typescript, SCSS Emotion, Webpack, C#, ASP.NET MVC, NodeJS, Azure Functions, Azure Cloud, AZ Data Factory, Puppeteer, Docker, API Rest, Postman, JSON, MS SQL Server, Windows"
     },
     {
       "company": "Swfast",
@@ -28,7 +29,8 @@
       "isCurrentCompany": false,
       "startDate": "01/2018",
       "endDate": "06/2019",
-      "positionSummary": "I have been involved in many different project in that company\n\nI worked in client mobile app using Xamarin Forms, that app Comanda Eletronica (GPlay) will help waiters make an order and manage costumer table orders in restaurant (order pad)\n\nI worked in the development of a Web API that provide data and integrate with Point of Sale(POS) system from the company. it app allow make integration with Comanda Eletronica app, Ifood and other third-party system, in that app was used C#, DDD architecture, ASP NET core MVC, Swagger documentation.\n\nAlso, I worked in a new system for Self-Service Machine, that app will allow the costumer go to restaurant like Subway restaurant and build and buy the product by own, it app was build using C#, WPF, Prism, and other small libs.\n\nThe last project that I was developing there was mobile app using Xamarin Forms, it's app is Digital Restaurant Menu it will replace the Traditional paper based menu with real-time order. it app will be on table where costumer will sit."
+      "positionSummary": "I have been involved in many different project in that company\n\nI worked in client mobile app using Xamarin Forms, that app Comanda Eletronica (GPlay) will help waiters make an order and manage costumer table orders in restaurant (order pad)\n\nI worked in the development of a Web API that provide data and integrate with Point of Sale(POS) system from the company. it app allow make integration with Comanda Eletronica app, Ifood and other third-party system, in that app was used C#, DDD architecture, ASP NET core MVC, Swagger documentation.\n\nAlso, I worked in a new system for Self-Service Machine, that app will allow the costumer go to restaurant like Subway restaurant and build and buy the product by own, it app was build using C#, WPF, Prism, and other small libs.\n\nThe last project that I was developing there was mobile app using Xamarin Forms, it's app is Digital Restaurant Menu it will replace the Traditional paper based menu with real-time order. it app will be on table where costumer will sit.",
+      "positionTecnology": "Technologies used: C#, ASP.NET core MVC, Swagger, Xamarin Forms, WPF, Prism, API Rest, Postman, JSON, MS SQL Server, Windows"
     },
     {
       "company": "Self Employee",
@@ -37,7 +39,8 @@
       "isCurrentCompany": true,
       "startDate": "01/2018",
       "endDate": "",
-      "positionSummary": "I've been manage and creating mobile app using React Native, \n\nDiane (Gplay) it's one of that app that help nurses, providing Diagnosis for different domains and issue, and some cases there is prescription for that problem and some utils tools. The necessity of it app is my mother is a nurse and Diane helps her in a daily process, nowadays this app has some active users."
+      "positionSummary": "I've been manage and creating mobile app using React Native, \n\nDiane (Gplay) it's one of that app that help nurses, providing Diagnosis for different domains and issue, and some cases there is prescription for that problem and some utils tools. The necessity of it app is my mother is a nurse and Diane helps her in a daily process, nowadays this app has some active users.",
+      "positionTecnology": "Technologies used: JavaScript ES6, React, React Native, Redux, Typescript, API Rest, Postman, JSON, Windows"
     },
     {
       "company": "Dart Digital BR",
@@ -46,7 +49,8 @@
       "isCurrentCompany": false,
       "startDate": "7/2015",
       "endDate": "10/2017",
-      "positionSummary": "In this company I worked creating applications to our customer, managing my own tasks and working outsource in others company.\n\nI worked with delivery order system for Pizza Hut, it is a website that customer could make his order, pay and receive at home or take out in restaurant. In that app was used C#, ASP NET MVC, Foundation CSS and jQuery.\n\nAlso, I worked in one management system, in this project that I was outsourced in other company, the app is a website that manager all warehouse, water and sewerage public, finances. In that app was used C# Web API, Bootstrap, AngularJS Material, AngularJS for Web Client.\n\nAnd the last app I was worked there was mobile and web that provide cashback per consumer like rewards.\n\nIn this app, we were using C# for Services, Bootstrap and jQuery for Web App and Xamarin Forms for mobile app."
+      "positionSummary": "In this company I worked creating applications to our customer, managing my own tasks and working outsource in others company.\n\nI worked with delivery order system for Pizza Hut, it is a website that customer could make his order, pay and receive at home or take out in restaurant. In that app was used C#, ASP NET MVC, Foundation CSS and jQuery.\n\nAlso, I worked in one management system, in this project that I was outsourced in other company, the app is a website that manager all warehouse, water and sewerage public, finances. In that app was used C# Web API, Bootstrap, AngularJS Material, AngularJS for Web Client.\n\nAnd the last app I was worked there was mobile and web that provide cashback per consumer like rewards.\n\nIn this app, we were using C# for Services, Bootstrap and jQuery for Web App and Xamarin Forms for mobile app.",
+      "positionTecnology": "Technologies used: C#, ASP.NET MVC, HTML, CSS, jQuery, JavaScript, AngularJS, Xamarin Forms, API Rest, Postman, JSON, MS SQL Server, Windows"
     },
     {
       "company": "Brasil Web Host",
@@ -55,7 +59,8 @@
       "isCurrentCompany": false,
       "startDate": "8/2013",
       "endDate": "11/2014",
-      "positionSummary": "I worked there helping and solving problems by tickets that their customers had with their hosting and websites."
+      "positionSummary": "I worked there helping and solving problems by tickets that their customers had with their hosting and websites.",
+      "positionTecnology": "Technologies used: Windows"
     }
   ],
   "education": [
@@ -65,7 +70,19 @@
       "fieldStudy": "Information Technology",
       "startDate": "2013",
       "endDate": "2015",
-      "activities": "Main activities developed there was analyze, design, document, specify, test, deploy, maintain computer information systems and apply project methodology in the production of systems. \n\nMain Technologies used: C#, Sql, Html, Asp Net MVC, Javascript"
+      "activities": "Main activities developed there was analyze, design, document, specify, test, deploy, maintain computer information systems and apply project methodology in the production of systems. \n\nMain Technologies used: C#, Sql, Html, Asp Net MVC, Javascript, Windows"
+    }
+  ],
+  "certificationsTraining": [
+    {
+      "schoolName": "Wes Bos",
+      "degree": "— ES6 for Everyone — Master Package ",
+      "startDate": "2023"
+    },
+    {
+      "schoolName": "Wes Bos",
+      "degree": "— Advanced React and GraphQL — Master Package ",
+      "startDate": "2022"
     }
   ],
   "ability": [
@@ -73,7 +90,7 @@
       "description": "Experienced with Agile culture"
     },
     {
-      "description": "2 year engaging and working together with remote team"
+      "description": "5 year engaging and working together with remote team"
     },
     {
       "description": "Knowledge how to build REST API and consume JSON"
@@ -86,6 +103,9 @@
     },
     {
       "description": "Building and maintaining Worldwide web portal"
+    },
+    {
+      "description": "Cloud First - Azure Experiences"
     },
     {
       "description": "Cultural Exchange - Experienced how to live out of my country"

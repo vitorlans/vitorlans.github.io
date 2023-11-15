@@ -1,17 +1,18 @@
-import React, { Component } from 'react';
-import BussinessCard from '../../components/BusinessCard'
-import WorkExperience from './WorkExperience'
-import Education from './Education'
-import Ability from './Ability'
-import Language from './Language'
-import Skill from './Skill'
+import React, { Component } from "react";
+
+import Ability from "./Ability";
+import BussinessCard from "../../components/BusinessCard";
+import Certification from "./Certification";
+import Education from "./Education";
+import Language from "./Language";
+import Skill from "./Skill";
+import WorkExperience from "./WorkExperience";
+import resume from "../../my-resume.json";
 
 // import Footer from './Footer'
-import resume from '../../my-resume.json'
 
 class Home extends Component {
   render() {
-    
     return (
       <div>
         <header>
@@ -26,6 +27,8 @@ class Home extends Component {
               <WorkExperience />
 
               <Education />
+
+              <Certification />
 
               <Ability />
             </div>
