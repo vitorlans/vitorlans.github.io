@@ -6,7 +6,7 @@
   "interests": "",
   "industry": "",
   "email": "vitor_hs@live.com",
-  "positionName": "Analyst Developer",
+  "positionName": "FullStack ReactJS + C# Developer",
   "photoUrl": "/eu.jpg",
   "dateBirth": "26/04/1995",
   "phoneNumber": "",
@@ -15,7 +15,7 @@
     {
       "company": "Reckitt",
       "industry": "Computer Software",
-      "positionTitle": "Web Developer | RPA Developer",
+      "positionTitle": "FullStack ReactJS + C# Developer | RPA Developer",
       "isCurrentCompany": true,
       "startDate": "07/2019",
       "endDate": "",
@@ -25,7 +25,7 @@
     {
       "company": "Swfast",
       "industry": "Computer Software",
-      "positionTitle": "Mobile Developer | Web Developer",
+      "positionTitle": "Xamarin Forms Mobile Developer | FullStack C# Developer",
       "isCurrentCompany": false,
       "startDate": "01/2018",
       "endDate": "06/2019",
@@ -35,7 +35,7 @@
     {
       "company": "Self Employee",
       "industry": "Computer Software",
-      "positionTitle": "Mobile Developer",
+      "positionTitle": "React Native Mobile Developer",
       "isCurrentCompany": true,
       "startDate": "01/2018",
       "endDate": "",
@@ -45,7 +45,7 @@
     {
       "company": "Dart Digital BR",
       "industry": "Computer Software",
-      "positionTitle": "Analyst Developer",
+      "positionTitle": "FullStack C# Developer",
       "isCurrentCompany": false,
       "startDate": "7/2015",
       "endDate": "10/2017",
@@ -60,7 +60,7 @@
       "startDate": "8/2013",
       "endDate": "11/2014",
       "positionSummary": "I worked there helping and solving problems by tickets that their customers had with their hosting and websites.",
-      "positionTecnology": "Technologies used: Windows"
+      "positionTecnology": ""
     }
   ],
   "education": [
