@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.8d25e3b5.css",
-    "main.js": "/static/js/main.de540e0e.js",
+    "main.css": "/static/css/main.cdecaf33.css",
+    "main.js": "/static/js/main.b2067d42.js",
     "static/media/SamsungOne-700.woff": "/static/media/SamsungOne-700.0c74ec6374975de3c5f9.woff",
     "static/media/SamsungOne-600.woff": "/static/media/SamsungOne-600.e0e38fd8ef422e4f3fc7.woff",
     "static/media/SamsungOne-800.woff": "/static/media/SamsungOne-800.75e0b4ddadb0075796ce.woff",
     "static/media/SamsungOne-400.woff": "/static/media/SamsungOne-400.88694790e1f21aa1739a.woff",
     "static/media/SamsungOne-300.woff": "/static/media/SamsungOne-300.8e9c6c9f513b7feb497b.woff",
+    "static/media/SamsungSharpSans-Medium.woff": "/static/media/SamsungSharpSans-Medium.07ff01e74c1eacac3c1d.woff",
+    "static/media/SamsungSharpSans-Bold.woff": "/static/media/SamsungSharpSans-Bold.c83a164d7426900b4da2.woff",
+    "static/media/SamsungSharpSans-Regular.woff": "/static/media/SamsungSharpSans-Regular.280e3d94fa7d02807e1a.woff",
     "index.html": "/index.html",
-    "main.8d25e3b5.css.map": "/static/css/main.8d25e3b5.css.map",
-    "main.de540e0e.js.map": "/static/js/main.de540e0e.js.map"
+    "main.cdecaf33.css.map": "/static/css/main.cdecaf33.css.map",
+    "main.b2067d42.js.map": "/static/js/main.b2067d42.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d25e3b5.css",
-    "static/js/main.de540e0e.js"
+    "static/css/main.cdecaf33.css",
+    "static/js/main.b2067d42.js"
   ]
 }
